@@ -1,2 +1,2 @@
-# Table-base-websit
+# Table-base-websit only for html
 SK Photography 
